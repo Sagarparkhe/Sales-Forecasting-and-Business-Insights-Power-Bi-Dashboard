@@ -64,5 +64,4 @@ Create interactive dashboards that drive business success.
 
 ![Untitled_page-0001](https://github.com/Sagarparkhe/SuperStore-Sales-Dashboard/assets/171353864/cb47c75d-0276-4021-a0ca-dfb56e6a52fb)
 
-**Forecast Design:**
-![Untitled_page-0002](https://github.com/Sagarparkhe/SuperStore-Sales-Dashboard/assets/171353864/d100d14c-765f-4d6a-9903-e3bad16638de)
+
